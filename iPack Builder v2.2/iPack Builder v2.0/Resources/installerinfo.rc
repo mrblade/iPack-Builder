@@ -1,0 +1,30 @@
+
+1 VERSIONINFO
+FILEVERSION 1,0,0,0
+PRODUCTVERSION 1,0,0,0
+FILEOS 0x40004
+FILETYPE 0x1
+{
+BLOCK "StringFileInfo"
+{
+	BLOCK "000004B0"
+	{
+		VALUE "Comments", ""
+		VALUE "CompanyName", "Mr Blade Designs"
+		VALUE "FileDescription", "iPack"
+		VALUE "FileVersion", "1, 0, 0, 0"
+		VALUE "InternalName", "iPack"
+		VALUE "LegalCopyright", "Copyright © 2014 Mr Blade"
+		VALUE "LegalTrademarks", ""
+		VALUE "OriginalFilename", "iPack.exe"
+		VALUE "ProductName", "iPack"
+		VALUE "ProductVersion", "1, 0, 0, 0"
+		VALUE "SpecialBuild", ""
+	}
+}
+
+BLOCK "VarFileInfo"
+{
+	VALUE "Translation", 0x0000 0x04B0
+}
+}

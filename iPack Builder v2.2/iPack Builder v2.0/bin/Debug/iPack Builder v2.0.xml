@@ -1,0 +1,360 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+iPackBuilderv2.0
+</name>
+</assembly>
+<members>
+<member name="P:iPack_Builder_v2._0.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources._001">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources._002">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources._301">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources._interface">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.another">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.another1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.background_iPack_builder">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.browse">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.browse_btn">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.build">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.build1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.build3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.c1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.c2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.create1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.da">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.da01">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.da2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.doanother1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.don1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.don2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.fb">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.fb01">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.folder">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.folder_btn">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.folderhelp">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.g_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.g1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.gback">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.gback1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.h1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.h2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.Header">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.helpbox">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.ho">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.ho1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.Icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.ii">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.ii2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.iinfohelp">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.interface_btn">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.interfacehelp">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.m1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.m2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.mak1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.modi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.modi2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.modid">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.modify1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.new1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.new1d">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.new2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.nxt1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.nxt2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.rem1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.rem2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.rema1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.rema2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.remove">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.remove1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.res">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.res_btn">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.reshelp">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.setup">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.setup2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.setuphelp">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.sub_b1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.sub_b2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.sub1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.sub1d">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.sub2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.subm">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.t1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.t3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.themehelp">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.twtr">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.twtr1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.Ubuntu">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.upg1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.upg1d">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.upg2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.upgrade">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:iPack_Builder_v2._0.My.Resources.Resources.upgrade_old">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:iPack_Builder_v2._0.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iPackTheme>
+
+ <name>iPack Builder 2.2 Theme</name>
+
+  <main>
+    <textcolor>#2b2a2a</textcolor>
+    <backcolor>#eaeaea</backcolor>
+    <backimage>back.png</backimage>
+    <linedivider>0</linedivider>
+    <divider-img>linedivider.png</divider-img>
+    <license-backcolor>#eaeaea</license-backcolor>
+    <license-textcolor>#2b2a2a</license-textcolor>
+	<drop-down>drop1.png</drop-down>
+	<drop-down-hover>drop2.png</drop-down-hover>
+	<drop-down-textcolor>#eaeaea</drop-down-textcolor>
+
+
+  </main>
+
+  <buttons>
+	<radio-checked>radioC.png</radio-checked>
+	<radio-unchecked>radioU.png</radio-unchecked>
+	<checkbox-checked>cbChecked.png</checkbox-checked>
+	<checkbox-unchecked>cbUnChecked.png</checkbox-unchecked>
+    <next-normal>nxt1.png</next-normal>  
+    <next-hover>nxt2.png</next-hover>  
+    <next-pressed>nxt3.png</next-pressed>  
+    <next-disabled>nxt4.png</next-disabled>  
+    <cancel-normal>cancel1.png</cancel-normal>  
+    <cancel-hover>cancel2.png</cancel-hover>  
+    <cancel-pressed>cancel3.png</cancel-pressed>  
+    <finish-normal>fin1.png</finish-normal>  
+    <finish-hover>fin2.png</finish-hover>  
+    <finish-pressed>fin3.png</finish-pressed>
+  </buttons>
+
+
+  <files-window>
+    <list-backcolor>#2b2a2a</list-backcolor>
+    <list-textcolor>#eaeaea</list-textcolor>
+    <node-linecolor>#eaeaea</node-linecolor>
+  </files-window>
+
+
+  <patching-window>
+    <window-backcolor>#2b2a2a</window-backcolor>
+    <window-textcolor>#eaeaea</window-textcolor>
+  </patching-window>
+
+
+  <finish-window>
+    <installed-tick-img>tick.png</installed-tick-img>
+    <log-backcolor>#2b2a2a</log-backcolor>
+    <log-textcolor>#eaeaea</log-textcolor>
+  </finish-window>
+  
+
+  <uninstall>
+    <list-backcolor>#2b2a2a</list-backcolor>
+    <list-textcolor>#eaeaea</list-textcolor>
+    <uninstall-img>uninstall.png</uninstall-img>
+  </uninstall>
+
+
+</iPackTheme>
